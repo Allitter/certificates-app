@@ -1,0 +1,8 @@
+dependencies {
+    implementation "org.hibernate:hibernate-ehcache:${hibernateVersion}"
+
+    implementation "com.h2database:h2:${h2Version}"
+    implementation "org.postgresql:postgresql:${postgresVersion}"
+}
+
+
